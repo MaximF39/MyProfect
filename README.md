@@ -1,0 +1,2 @@
+# MyProfect
+Tkinter + sklearn, LinearRegression
